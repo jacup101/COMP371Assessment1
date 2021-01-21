@@ -1,4 +1,5 @@
 # COMP371Assessment1
+Author: Joshua Pulido
 Assumptions:
 - There is one chef that can simulataneously cook all the food, and can cook anything ordered
 - A restaurant will only have a small number of robots (<100)
