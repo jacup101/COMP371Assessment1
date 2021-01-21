@@ -9,3 +9,5 @@ Author: Joshua Pulido
 
 # To Run:
 - Compile code, then run Main (Main.java is set up to test some basic functionality, but the customers/restaurant can only be modified by changing the java file)
+- To change the customers or add them, refer to the addCustomer() methods in Restaurant.java for parameters, or see as listed below:
+- addCustomer(String name, String foodType, int cookTime, int price) OR addCustomer(String name, String foodType, int cookTime, int price,ArrayList<Food> extraItems)
