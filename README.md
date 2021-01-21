@@ -4,3 +4,5 @@ Assumptions:
 - A restaurant will only have a small number of robots (<100)
 - Unless otherwise specified (with a list of extra orders), a customer will only order 1 thing and then leave the restaurant
 - All customers are assumed to be able to pay
+To Run:
+- Compile code, then run Main (Main.java is set up to test some basic functionality, but the customers/restaurant can only be modified by changing the java file)
